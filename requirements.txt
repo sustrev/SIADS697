@@ -1,0 +1,9 @@
+The following libraries were utilized in this project:
+pandas-1.0.5
+numpy-1.18.5
+matplotlib-3.2.2
+sklearn-0.0
+import_ipynb-0.1.4
+jupyter_dash-0.4.2
+dash-2.5.1
+plotly-5.3.0
