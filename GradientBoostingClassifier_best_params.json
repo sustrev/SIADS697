@@ -1,0 +1,1 @@
+{"a":{"n_estimators":5.0,"learning_rate":0.1},"b":{"n_estimators":100.0,"learning_rate":0.1},"c":{"n_estimators":100.0,"learning_rate":0.1},"d":{"n_estimators":100.0,"learning_rate":0.1},"e":{"n_estimators":10.0,"learning_rate":0.1},"f":{"n_estimators":100.0,"learning_rate":0.1},"all":{"n_estimators":100.0,"learning_rate":0.1}}
