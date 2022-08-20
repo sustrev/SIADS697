@@ -36,6 +36,8 @@ Adapted from: https://codepen.io/chriddyp/pen/bWLwgP.css
 .module {
     padding: 15px 30px 15px 30px;
     background-color:#FFF;
+    margin: 15px 0px 15px 0px;
+    border-radius: 10px;
 }
 
 /* Grid
