@@ -39,6 +39,12 @@ Adapted from: https://codepen.io/chriddyp/pen/bWLwgP.css
     margin: 15px 0px 15px 0px;
     border-radius: 10px;
 }
+.module-thin{
+    padding: 7.5px 15px 7.5px 15px;
+    background-color:#FFF;
+    margin: 7.5px 0px 7.5px 0px;
+    border-radius: 10px;
+}
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
