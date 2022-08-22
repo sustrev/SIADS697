@@ -20,9 +20,9 @@ The following libraries are utilized in this project:
 * plotly-5.3.0
 
 ## Example
-Insert code block example of how to run the final project
+To run this dashboard, please make sure you have the dataset (including the full studentVle.csv from OULAD) and required libraries installed, then run the Jupyter Notebook `Interface4.ipynb` and point your browser to http://127.0.0.1:8401/
 
 ## Links
-[Video Showcase](Insert link to video)
+[Video Showcase](Link Coming Soon!)
 
-[Blog Post](Insert link to blog post)
+[Blog Post](Link Coming Soon!)
