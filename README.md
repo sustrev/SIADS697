@@ -23,6 +23,6 @@ The following libraries are utilized in this project:
 To run this dashboard, please make sure you have the dataset (including the full studentVle.csv from OULAD) and required libraries installed, then run the Jupyter Notebook `Interface4.ipynb` and point your browser to http://127.0.0.1:8401/
 
 ## Links
-[Video Showcase](Link Coming Soon!)
+[Video Showcase](https://www.youtube.com/watch?v=IlyACjOTnug)
 
-[Blog Post](Link Coming Soon!)
+[Blog Post](https://medium.com/@sustrev/in-pursuit-of-success-14f2a99d8cd)
